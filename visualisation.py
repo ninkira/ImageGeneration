@@ -174,8 +174,9 @@ class Visualisation:
           # Display the image
           ax[i // 4, i % 4].imshow(image_array, cmap='Greys_r')
           ax[i // 4, i % 4].axis('off')
-      plt.show()
       plt.savefig(path, bbox_inches='tight')
+      plt.show()
+
 
      
 
@@ -213,4 +214,3 @@ class Visualisation:
    
       plt.savefig(path)  
       plt.show()
-      plt.close()
