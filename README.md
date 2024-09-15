@@ -6,7 +6,7 @@ This repository provides the code for the submission of DT8122 - Probabilistic A
 ## Repository Structure  
 
 - *DT8122_eckertz_report.pdf* contains the project report.
-- ZIP folders *models* and *results* contain the models and results obtained during the completion of the assignment.  
+- ZIP folders *diffusion/bfn_models* and *results_diffusion/bfn* contain the models and results obtained during the completion of the assignment.  
 - Folders *models* and *results* are empty and intended for training new models and saving results. The code should automatically create the necessary subfolders. If not, please manually create subfolders called 'diffusion' or 'bfn'.  
 - Scripts:
   - *visualisation.py* - Provides a class called `Visualisation` that contains the visualisation and plotting methods produced for this work.  
