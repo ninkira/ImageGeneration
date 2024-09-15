@@ -1,7 +1,7 @@
 ## DT8122 - Probabilistic Artificial Intelligence  
 ### Diffusion Model and Bayesian Flow Network Assignment  
 
-This repository provides the code for the submission of DT8122 - Probabilistic Artificial Intelligence.  
+This repository provides the code for the submission of DT8122 - Probabilistic Artificial Intelligence by Nina Christine Eckertz, Phd student @ NTNU.
 
 ## Repository Structure  
 
